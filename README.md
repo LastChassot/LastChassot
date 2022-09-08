@@ -1,6 +1,6 @@
  
 <div align="center">
-<img src="https://i.pinimg.com/originals/b2/36/e8/b236e80c866b149e67159c425eac5aea.gif" align="center" style="width: 100%" />
+<img src="https://i.pinimg.com/originals/b2/36/e8/b236e80c866b149e67159c425eac5aea.gif" align="center" style="width: 110%" />
 </div>  
   
 <h2 align=center>Hi! I’m July Chassot 🙂</h2>
